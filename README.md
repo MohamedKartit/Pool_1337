@@ -1,4 +1,4 @@
-# <center>Pool 1337 <center>
+# Pool 1337
 My solutions of the Pool (Piscine) 2023
 > please open an issue on github if you find anything incorrect
 
